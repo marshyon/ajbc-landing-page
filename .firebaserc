@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ajbc-landing",
+    "live": "ajbc-landing"
+  },
+  "targets": {},
+  "etags": {}
+}
